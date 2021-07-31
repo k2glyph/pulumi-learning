@@ -1,0 +1,3 @@
+name: needpedia.org-infra
+runtime: go
+description: Needpedia.org infrastructure
